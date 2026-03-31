@@ -77,7 +77,7 @@ Un outil de recherche d'entreprises et de gestion de stages pour étudiants, dé
 ## 📂 Structure du Projet
 
 ```
-BetterThanBubble/
+OnlyStages/
 ├── index.php              # Point d'entrée principal
 ├── app/
 │   ├── core/              # Logique backend (config, contrôleurs)
