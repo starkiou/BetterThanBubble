@@ -67,7 +67,7 @@ Un outil de recherche d'entreprises et de gestion de stages pour étudiants, dé
 
 ## 🎮 Comment Utiliser
 
-1. Ouvrez `http://localhost/BetterThanBubble/` dans votre navigateur (adaptez le nom du dossier)
+1. Ouvrez `http://localhost/OnlyStages/` dans votre navigateur (adaptez le nom du dossier)
 2. Connectez-vous avec un compte de test
 3. Explorez :
    - **Entreprises** : Recherchez des entreprises françaises par nom, activité, département
